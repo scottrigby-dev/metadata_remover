@@ -1,2 +1,2 @@
 # metadata_remover
-A simple application that removes metadata from images - coded in python
+A simple metadata reader application, display all visable metadata in an image - coded with python
